@@ -1,0 +1,27 @@
+﻿生成启动时间为 2018-05-15 11:08:54。
+     1>项目“C:\Users\a\Desktop\我的文档\学习\大学\C++实训\planegamecode\PlaneGame\PlaneGame.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\PlaneGame.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\PlaneGame.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Ball.cpp Bomb.cpp Enemy.cpp Explosion.cpp GameObject.cpp MainFrm.cpp MyPlane.cpp PlaneGame.cpp PlaneGameDoc.cpp PlaneGameView.cpp WzdSplash.cpp
+         WzdSplash.cpp
+         PlaneGameView.cpp
+         PlaneGameDoc.cpp
+         PlaneGame.cpp
+         MyPlane.cpp
+         MainFrm.cpp
+         GameObject.cpp
+         Explosion.cpp
+         Enemy.cpp
+         Bomb.cpp
+         Ball.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0804" /IDebug\ /nologo /fo"Debug\PlaneGame.res" PlaneGame.rc 
+         
+     1>PlaneGame.rc(245): error RC2135: file not found: C:\Users\a\Desktop\C++
+     1>已完成生成项目“C:\Users\a\Desktop\我的文档\学习\大学\C++实训\planegamecode\PlaneGame\PlaneGame.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:35.18
